@@ -1,0 +1,24 @@
+{
+  "name": "Asep Joko Wijaya Halim Putra",
+  "nik": "1234567890123456",
+  "relatedReports": [
+    {
+      "title": "Percobaan Penculikan",
+      "datetime": "Senin, 12 Januari 2023, 15:35 WIB",
+      "rideShareLink": "https://track.gojek.com/?id=1b7b6999",
+      "location": "Penjaringan",
+      "city": "Jakarta",
+      "partner": "GRAB",
+      "vehicle": {
+        "plateNumber": "B 12345 XA",
+        "vehicleType": "Toyota Avanza"
+      },
+      "reportLink": "https://github.com/immacommitsudoku/problematic-driver-data/issues/1",
+      "driverPics": [
+        "https://thispersondoesnotexist.com/",
+        "https://thispersondoesnotexist.com/",
+        "https://thispersondoesnotexist.com/"
+      ]
+    }
+  ]
+}
