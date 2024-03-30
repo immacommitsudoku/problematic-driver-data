@@ -40,11 +40,23 @@ Toyota Avanza
 ## Kronologi
 Pada suatu hari, saya memesan Gocar ke Penjaringan. Namun grab carnya berangkat ke arah tidak jelas dan sepi. Disana saya dimintai uang dan nomor telepon orang tua.
 
+
 ## Bukti-Bukti
 ### Screenshot Bukti Match Dengan Driver Bermasalah
+<img width="324" alt="image" src="https://github.com/immacommitsudoku/problematic-driver-data/assets/165474266/fdab169f-ab3e-46d2-9a52-e5a74fad9db0">
 
 ### Screenshot Chat Dengan Driver
-
-### Rekaman Video atau Suara
+<img width="210" alt="image" src="https://github.com/immacommitsudoku/problematic-driver-data/assets/165474266/fda76cab-c101-4090-9b93-35bbb86259eb">
 
 ### Screenshot Bukti Chat Dengan CS Mitra
+
+### Foto / Rekaman Video / Rekaman Suara Lainny Sebagai Bukti
+
+### Link Berita Terkait
+
+
+### CS Ticket Number
+Case Number 12345
+
+### Nomor Perkara / Nomor Laporan Polisi
+39/Pdt.P/2024/PN Nga (Nomor Perkara)
