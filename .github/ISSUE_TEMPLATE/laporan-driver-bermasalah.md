@@ -1,5 +1,5 @@
 ---
-name: Laporan Driver Bermasalah <>
+name: Laporan Driver Bermasalah
 about: Ini adalah template laporan utk melaporkan driver yang diduga bermasalah.
 title: ''
 labels: ''
